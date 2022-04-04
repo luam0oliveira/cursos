@@ -1,0 +1,15 @@
+.flex-container{
+  gap: 1rem;
+  display: flex;
+  height: 100vh;
+}
+
+.item-1{
+  flex-basis: 25%;
+  background-color: blue;
+}
+
+.item-2{
+  flex: 1;
+  background-color: red;
+}

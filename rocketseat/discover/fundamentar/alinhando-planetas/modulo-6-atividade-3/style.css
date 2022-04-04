@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  gap: .8rem;
+  flex-wrap: wrap;
+}
+
+.container div{
+  width: 30%;
+  height: 10vh;
+  background-color: blue;
+}
+
